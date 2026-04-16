@@ -1,4 +1,4 @@
-## Transformação de dados Csv referente aos gastos com fornecedores da PMSJC no ano de /2025 em gráfico no excel
+## Transformação de dados Csv referente à receita da PMSJC no mês de fevereiro/2026 em gráficos no excel
 
 Trabalho foi executado com ferramentas do excel, transformando dados em gráfico para melhor visualização.
 [balancete_receita.xlsx](https://github.com/user-attachments/files/26769251/balancete_receita.xlsx)
