@@ -1,0 +1,8 @@
+## REGRESSÃO LINEAR SIMPLES
+
+Grafico gerado usando o conjunto de dados Redwine Quality.
+
+1 -  Considerando cada característica que afeta a qualidade do vinho. qual característica é  mais determinante? 
+R: Não tem como definir qual característica é a mais determinante com a regressão linear simples somente  com a regressão composta.
+
+<img width="968" height="467" alt="Image" src="https://github.com/user-attachments/assets/c9ffa8d6-b022-4331-8842-1e465bb699b5"/>
