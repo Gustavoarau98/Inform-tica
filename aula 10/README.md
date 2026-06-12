@@ -1,13 +1,13 @@
 ## ELABORANDO PERGUNTAS POWER BI
 Foi utilizado os dados aberto do governo de São Paulo sobre movimentação financeira no estado para criação de dashboard para analises, com isso responder as perguntas elaboradas pela professora em sala de aula.
 
-1° PERGUNTA
+PERGUNTA 1
 
 Qual ano e mês o saldo de transferência foi menor ?
 
 Resposta: Foi no ano de 2020 e no mês foi abril.
 
-2° PERGUNTA
+PERGUNTA 2
 
 Qual sexo possui o maior saldo de transferência em cada ano?
 
@@ -16,13 +16,13 @@ Resposta: Não possui sexo para comparações.
 
 Foi utilizado os dados aberto do governo de São Paulo sobre emprego formal no estado para criação de dashboard para analises, com isso responder as perguntas elaboradas pelo alunos em sala de aula.
 
-1° PERGUNTA
+PERGUNTA 1
 
 Qual ano e mês teve o maior saldo de admissão?
 
 Resposta:O ano foi 2025 e o mês foi fevereiro. 
 
-2° PERGUNTA
+ PERGUNTA 2
 
 Qual ano e mês teve o menor saldo de admissão?
 
